@@ -3,7 +3,7 @@ AthleteX Strategic Plan
 Our Mission
 -------------
 
-AthleteX's mission is to become a free, public, global decentralized market for the trading of athlete performance.
+AthleteX's mission is to become a free, public decentralized market for the trading of athlete performance.
 
 
 2023 Breakthrough Goals
@@ -27,9 +27,7 @@ celebrate the small wins
 
 results oriented, without excuses
 
-...
-
-...
+transparency and optimistic outlooks
 
 
 -----Drivers----------------------------------------------
@@ -49,35 +47,38 @@ Effective, forward moving and results oriented coalition-led governance
 
 *Financial Performance*
 
-Deep token liquidity, Profit-fueled growth --  need to add more to this.  When AX was set at 10c, it collapsed because there was no demand side to support token valuation.  Paul W. Bradley also suggested fundraising to set token price but i think this only works to limited extent ( see FTX, LUNA crashes, the centralized players fundraised but no amount of fundraising can beat 'the market' )
+Deep token liquidity, along with growth financed through protocol revenues.
 
 -----Goals------------------------------------------------
 
-Market Leadership |   Introduce a mobile app to broaden scope of viable users
+Market Leadership |   Introduce a mobile PWA to broaden scope of viable users
 
 Market Leadership |   Create an IAO (Initial Athlete Offering) program that onboards athletes wanting to get listed on AX
 
-Market Leadership |   Partner with at least 1 name-brand sports org and onboard their community (Polygon did instagram, reddit etc)
+Market Leadership |   Partner with at least 1 name-brand sports org and onboard their community 
 
-Market Leadership |  
+Market Leadership |   Achieve Network Effects leadership 
 
-Market Leadership |
 
-Contributors & Org|   Clearly define contributor rankings & 
+
+Contributors & Org|   Clearly define contributor rankings & how to move up/down
 
 Contributors & Org|   Complete a governance framework, and (at least) 4 votes that define org direction
 
-Contributors & Org|   
+Contributors & Org|   Maintain a bi-weekly community vote around product features / requests
+
+Contributors & Org|   Host at least 2 in-person 'Contributors retreat' centered around sports (AX Myrtle Beach success, and AX Miami tentative)
+
+
 
 Financial Performance | Fundraise between $500,000 to incentivize APT Market makers
 
-Financial Performance | Maintain a price floor of at least 0.10c for the entire year.
+Financial Performance | Defend a price floor of at least 0.10c for at least two quarters.
 
 Financial Performance | Grow AX-nonAPT liquidity to at least $100,000 in alternative digital assets
 
-Financial Performance | 
+Financial Performance | Build up AX multi-sig to at least $1m in USDC stablecoin by Q4 2023
 
-Financial Performance | 
  
 
 -----Our Key Initiatives ----------------------------------------------------------
@@ -90,6 +91,6 @@ Financial Performance |
 
 --> Create a new framework to measure protocol traction and success using our creativity and on-chain analytics
 
---> 
+--> Distribute AthleteX through APT sales & IAO events
 
---> 
+--> Establish a clear path to decentralization & community governance for the indeterminate future
