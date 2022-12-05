@@ -20,27 +20,19 @@ SLX Casino collaboration -- DAO Vote to send 100,000 units of $AX For them to us
         = 1,100 DAU @30Tx/month @$500vol/Tx
 
 
-
 Q2 -- Compounding our growth -- SXN Announcement  & Sharkswap Launch
 
 Community retreat in Miami!  -- work through details with Gabe Bradshaw
 
+Apply for Perpetual Protocol grant & leverage their resources to create Career APTs
+
+Complete NFT IAO front-end 
 
 
 Q3 -- Baseball IAO offering with Hector 
 
-Q4 -- Release Perpetual (Career APTs)
+Q4 -- Release Perpetual APTs (Career APTs)
 
 END OF 2023
-
-Q1
-
-Q2
-
-Q3
-
-Q4
-
-END OF 2024
 
 
