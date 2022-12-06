@@ -3,12 +3,14 @@ BREAK IT DOWN BY SUMMARY OF TASKS SEGMENTED BY QUARTER
 Q1 -- Focus is completing the foundation -- forming the foundation for the market
 
 Hosting 15 Twitter Spaces this quarter (SportsFi twitter group collab with PMD)
+Sync twitter engagement with TradSports accounts. Barstool, Covers, The Action Network all post the same highlights we can share sports highlight authority on Twitter.
 
-Appearing on 5 NFT / Crypto NFT Podcasts 
+Appearing on 5 NFT / Crypto NFT Podcasts
 
-Launching of AthleteX #SportsFi podcast ( Robbie Klages )
+Launching of AthleteX #SportsFi podcast (Robbie Klages)
 
 SLX Casino collaboration -- DAO Vote to send 100,000 units of $AX For them to use in their casino
+Secondly, integrate APTs into Online Casinos, especially Decentralized Casinos, to push adoption of the secondary market for athlete tokens. For ex binary option prop bets, "will this APT go above this number on a certain date?"
 
     Uniswap Projections:
         AX Projected Stats: (aggressive)
@@ -34,5 +36,3 @@ Q3 -- Baseball IAO offering with Hector
 Q4 -- Release Perpetual APTs (Career APTs)
 
 END OF 2023
-
-
