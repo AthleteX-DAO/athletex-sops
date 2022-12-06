@@ -11,7 +11,7 @@ Launching of AthleteX #SportsFi podcast ( Robbie Klages )
 SLX Casino collaboration -- DAO Vote to send 100,000 units of $AX For them to use in their casino
 
     Uniswap Projections:
-        AE Projected Stats: (aggressive)
+        AX Projected Stats: (aggressive)
         Vol/Tx = $500 = $2.5fee/Tx
         $550,000vol/($500vol/Tx(assumed)) = 1,100Tx/day
 
