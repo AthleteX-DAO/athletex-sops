@@ -2,6 +2,12 @@ BREAK IT DOWN BY SUMMARY OF TASKS SEGMENTED BY QUARTER
 
 Q1 -- Focus is completing the foundation -- forming the foundation for the market
 
+January
+
+February
+
+March
+
 Hosting 15 Twitter Spaces this quarter (SportsFi twitter group collab with PMD)
 Sync twitter engagement with TradSports accounts. Barstool, Covers, The Action Network all post the same highlights we can share sports highlight authority on Twitter.
 
