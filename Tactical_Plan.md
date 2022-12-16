@@ -5,6 +5,8 @@ Q1 -- Focus is completing the foundation -- forming the foundation for the marke
 January
 
 February
+    Launching of AthleteX #SportsFi podcast (Robbie Klages)
+    
 
 March
 
@@ -13,7 +15,6 @@ Sync twitter engagement with TradSports accounts. Barstool, Covers, The Action N
 
 Appearing on 5 NFT / Crypto NFT Podcasts
 
-Launching of AthleteX #SportsFi podcast (Robbie Klages)
 
 SLX Casino collaboration -- DAO Vote to send 100,000 units of $AX For them to use in their casino
 Secondly, integrate APTs into Online Casinos, especially Decentralized Casinos, to push adoption of the secondary market for athlete tokens. For ex binary option prop bets, "will this APT go above this number on a certain date?"
