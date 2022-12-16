@@ -24,6 +24,12 @@ Secondly, integrate APTs into Online Casinos, especially Decentralized Casinos, 
 
 Q2 -- Compounding our growth -- SXN Announcement  & Sharkswap Launch
 
+April
+
+May
+
+June
+
 Community retreat in Miami!  -- work through details with Gabe Bradshaw
 
 Apply for Perpetual Protocol grant & leverage their resources to create Career APTs
@@ -33,6 +39,18 @@ Complete NFT IAO front-end
 
 Q3 -- Baseball IAO offering with Hector 
 
+July
+
+August
+
+September
+
 Q4 -- Release Perpetual APTs (Career APTs)
+
+October
+
+November
+
+December
 
 END OF 2023
