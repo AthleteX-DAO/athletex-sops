@@ -29,7 +29,10 @@ Secondly, integrate APTs into Online Casinos, especially Decentralized Casinos, 
         = 1,100 DAU @30Tx/month @$500vol/Tx
 
 
-Q2 -- Compounding our growth -- SXN Announcement  & Sharkswap Launch
+Q2 -- 
+
+
+Compounding our growth -- SXN Announcement  & Sharkswap Launch  -- Fundraising from VCs ( $500k promissory, serviced @ $5k monthly)
 
 April
 
