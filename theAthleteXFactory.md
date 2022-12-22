@@ -2,7 +2,8 @@ The AthleteX Customer Factory is the system that turns sports fans into happy at
 
 This is a detailed factory blueprint of the types of customers we are targetting, and how the factory will look for each type of customer.
 
-The customer factory will go through four evolutions AthleteX 1.0, 2.0, 3.0, 4.0.  So far, we have successfully completed AthleteX 1.0.
+The customer factory will go through four evolutions AthleteX 1.0, 2.0, 3.0, 4.0.
+So far, we have successfully completed AthleteX 1.0.
 
 -----------------------------------------------------------------------------
 
