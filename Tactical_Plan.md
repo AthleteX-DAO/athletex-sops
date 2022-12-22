@@ -8,6 +8,8 @@ Q1 -- Focus is completing the foundation -- forming the foundation for the marke
 4) Collaborations with NFT Communities (Issue NFTs + APTs together!) ref: https://docs.google.com/spreadsheets/d/1-0oafnfKEwUEnvOJLUtKXLzmQwx2BIj0eqZ9yElA5Ac/edit?usp=drivesdk
 5) Appearance on SX Network Podcast
 
+6) SLX Casino offering
+
     Uniswap Projections:
         AX Projected Stats: (aggressive)
         Vol/Tx = $500 = $2.5fee/Tx
@@ -18,7 +20,7 @@ Q1 -- Focus is completing the foundation -- forming the foundation for the marke
         = 1,100 DAU @30Tx/month @$500vol/Tx
 
 
-Q2 -- 
+Q2 -- Hosting 
 
 Focus -- Compounding Traction and breaking out
 
