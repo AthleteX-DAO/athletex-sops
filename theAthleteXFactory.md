@@ -4,11 +4,31 @@ This is a detailed factory blueprint of the types of customers we are targetting
 
 The customer factory will go through four evolutions AthleteX 1.0, 2.0, 3.0, 4.0.  So far, we have successfully completed AthleteX 1.0.
 
+-----------------------------------------------------------------------------
 
-AthleteX Factory 1.0:
+AthleteX Factory 1.0:  This iteration was focused on establishing the foundations of the structure (i.e. building the factory)
 
-0 - Customer - 
-1 - Acquisition - 
+0 - Customer - Sports focused Crypto users (ex. Andrew-SX Jake-SX, existentialKevin, Pearlson)
+question: what is the TAM of this factory?  idk but it is too small.  We only got a couple hundred customers throughout 2022, and that is not sustainable.
+
+1 - Acquisition - DeFi Slate, Twitter
+
+2 - Activation - AthleteX promo video
+
+3 - Retention - about 6 months
+
+4 - Revenue - ~$200k
+
+5 - Referral - Clyde, LunaFi, CoachCryptos
+
+This has some room to grow, but this outlines the core as I've seen it.
+
+-----------------------------------------------------------------------------
+
+AthleteX Factory 2.0 (projection): This iteration is going to be focused on generating a sustainable 
+
+0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
+1 - Acquisition -
 2 - Activation - 
 3 - Retention - 
 4 - Revenue - 
