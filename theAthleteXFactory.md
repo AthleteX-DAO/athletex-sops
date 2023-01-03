@@ -27,7 +27,7 @@ This has some room to grow, but this outlines the core as I've seen it.
 
 -----------------------------------------------------------------------------
 
-AthleteX Factory 2.0 (projection): This iteration is going to be focused on generating a sustainable 
+AthleteX Factory 2.0 (projection): This iteration is going to be focused on generating a sustainable revenue and breakouting out into new heights
 
 0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
