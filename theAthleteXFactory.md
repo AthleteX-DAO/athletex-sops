@@ -42,4 +42,4 @@ AthleteX Factory 2.0 (projection): This iteration is going to be focused on gene
 5 - Referral - 
 
 
-![A picture of a customer factory](https://imgur.com/E40yItc)
+![A picture of a customer factory]([https://imgur.com/E40yItc](https://imgur.com/E40yItc))
