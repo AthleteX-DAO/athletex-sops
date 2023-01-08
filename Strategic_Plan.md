@@ -9,9 +9,9 @@ AthleteX's mission is to become a free, public decentralized market for the trad
 2023 Breakthrough Goals
 -------------
 
-Greater than $10m in quarterly trading volume by Q3 2023 (Tentative)
+Greater than $10m in quarterly trading volume by Q3 2023 
 
-Optically positioned as the sports fan's best way to interact with their fav athlete ( &/or alternative to forex?)
+Optically positioned as the NASDAQ of Athlete Performance
 
 Greater than 1,000 DAU, and growing at a rate of 5x annualized
 
