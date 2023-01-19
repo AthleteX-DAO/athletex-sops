@@ -4,9 +4,6 @@ Our Mission
 -------------
 
 AthleteX's mission is to become a free, public decentralized market for the trading of athlete performance.
-// free is not capital efficient, i think we mean free in terms of freedom such as openly accessible / censorship resistance
-Based on our recent conversations with Paul, Christian, and each other we can refine the above mission statement into the following:
-AthleteX's mission is to become a public cornerstone for athlete monetization - an NIL marketplace, fantasy sports platform, and trading card studio for athletes, fans, and brands.
 
 
 2023 Breakthrough Goals
@@ -16,8 +13,8 @@ Greater than $10m in quarterly trading volume by Q3 2023
 
 Optically positioned as the NASDAQ of Athlete Performance
 
-Greater than 1,000 DAU, and growing at a rate of 5x annualized
-// since we are 1 year into tracking DAU, let's track growth as MoM
+Greater than 1,000 MOM, and growing at a rate of 5x annualized
+
 
 
 Our Values
