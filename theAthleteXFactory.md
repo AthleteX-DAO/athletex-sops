@@ -31,15 +31,20 @@ AthleteX Factory 2.0 (projection): This iteration is going to be focused on gene
 
 0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
-1 - Acquisition -
+1 - Acquisition - 
+    KPI: 
 
 2 - Activation - 
+    KPI: 
 
 3 - Retention - 
+    KPI: Monthly Active Users
 
 4 - Revenue - 
+    KPI: Monthly Recurring Revenue
 
 5 - Referral - 
+    KPI: Activation Coefficient:
 
 
 ![A picture of a customer factory](https://s3.amazonaws.com/leancanvas_production/syfbux9el98cg0o6r6wag18ckkaw?response-content-disposition=inline%3B%20filename%3D%22customer-factory.png%22%3B%20filename%2A%3DUTF-8%27%27customer-factory.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA236FBQTZH6QLCUQP%2F20230103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230103T165348Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&X-Amz-Signature=a68ac58f5db85a98a873189454629bda54351719509a1c27df49be53b5df84be)
