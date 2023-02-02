@@ -34,6 +34,6 @@ Sentiment:
 
 For all of our activities, we are making NO progress, and these are the metrics that tell us this.
 
-For us to be able to grow into the organization we want, we must become more disciplined, measured, and accounable.
+For us to be able to grow into the organization we want, we must become more disciplined, measured, and accountable.
 
 Some members have suggested using reports to be more accountable about progress.
