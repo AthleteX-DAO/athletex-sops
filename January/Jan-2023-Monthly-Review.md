@@ -4,7 +4,7 @@ This is a detailed breakdown of the metrics we chose to measure, and a log of id
 
 Activities (KPIs):
 
-**Most important KPI: ___Annual Recurring Revenue (ARR)
+**Most important KPI: __Annual Recurring Revenue (ARR)__
 
 Acquisition ():
 
