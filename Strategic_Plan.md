@@ -11,7 +11,7 @@ AthleteX's mission is to become a free, public decentralized market for the trad
 
 Greater than $10m in quarterly trading volume by Q3 2023 
 
-Optically positioned as the NASDAQ of Athlete Performance
+Optically positioned as the NASDAQ for Athletes
 
 Greater than 1,000 MOM, and growing at a rate of 5x annualized
 
