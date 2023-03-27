@@ -8,7 +8,7 @@ So far, we've identified 5 different types of AthleteX personas:
 
 > Cryptocurrency traders on Twitter like Gainzy
 
-> Former Banking / Finance professionals who have a growing interest in BTC
+> Fantasy sports fans who like to watch multiple sports 
 
 
 
@@ -16,10 +16,10 @@ We currently have, and plan to introduce these product offerings for these consu
 
 > Binary event markets for the frat college student to enjoy with his friends
 
-> Seasonal Options markets for hedging and speculating on an athlete's price
+> Seasonal and Career markets for hedging and speculating on an athlete's price
 
-> An Athlete launchpad program where Athletes can offer their Name, Image, and Likeness for NFTs
+> An athlete launchpad program where athletes can offer their Name, Image, and Likeness for NFTs
 
-> Perpetual Athlete Markets for Cryptocurrency Traders
+> Crypto Perpetual Athlete Markets (with options for Leverage Trading) for them to trade new assets on technology they are familiar with
 
-> ...
+> We offer a cross-sport fantasy league option for them to engage with all of them at once.
