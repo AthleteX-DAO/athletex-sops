@@ -1,4 +1,4 @@
-So far, we've identified 4 different types of AthleteX personas:
+So far, we've identified 5 different types of AthleteX personas:
 
 > Frat college student who watches sports
 
