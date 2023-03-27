@@ -6,7 +6,7 @@ So far, we've identified 5 different types of AthleteX personas:
 
 > Under financed athletes who are looking to grow their professional careers
 
-> Cryptocurrency traders on Twitter 
+> Cryptocurrency traders on Twitter like Gainzy
 
 > Former Banking / Finance professionals who have a growing interest in BTC
 
