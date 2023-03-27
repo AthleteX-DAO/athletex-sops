@@ -2,7 +2,7 @@ So far, we've identified 5 different types of AthleteX personas:
 
 > Frat college student who watches sports
 
-> College professor of finance with an understanding of options markets
+> College professor of finance with an understanding of options markets and pay go to college sports events
 
 > Under financed athletes who are looking to grow their professional careers
 
