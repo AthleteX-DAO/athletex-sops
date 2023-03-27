@@ -1,4 +1,4 @@
-So far, we've identified 4 different types of AthleteX personas.
+So far, we've identified 4 different types of AthleteX personas:
 
 > Frat college student who watches sports
 
@@ -10,3 +10,16 @@ So far, we've identified 4 different types of AthleteX personas.
 
 > Former Banking / Finance professionals who have a growing interest in BTC
 
+
+
+We currently have, and plan to introduce these product offerings for these consumers:
+
+> Binary event markets for the frat college student to enjoy with his friends
+
+> Seasonal Options markets for hedging and speculating on an athlete's price
+
+> An Athlete launchpad program where Athletes can offer their Name, Image, and Likeness for NFTs
+
+> Perpetual Athlete Markets for Cryptocurrency Traders
+
+> ...
