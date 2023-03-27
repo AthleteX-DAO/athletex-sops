@@ -20,6 +20,6 @@ We currently have, and plan to introduce these product offerings for these consu
 
 > An athlete launchpad program where athletes can offer their Name, Image, and Likeness for NFTs
 
-> Crypto Perpetual Athlete Markets (with options for Leverage Trading) for them to trade new assets on technology they are familiar with
+> Crypto Perpetual Athlete Markets (with leverage) for them to trade
 
 > We offer a cross-sport fantasy league option for them to engage with all of them at once.
