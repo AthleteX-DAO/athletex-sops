@@ -14,4 +14,4 @@ seasonal performance markets,
 
 and perpetual prerformance markets,
 
- we aim to be a one stop shop for the sports finance enthusiast.
+ we aim to be a one stop shop for the **sports finance** enthusiast.
