@@ -12,6 +12,6 @@ cross-sport fantasy sports,
 
 seasonal performance markets,
 
-and perpetual prerformance markets,
+and perpetual performance markets,
 
  we aim to be a one stop shop for the **sports finance** enthusiast.
