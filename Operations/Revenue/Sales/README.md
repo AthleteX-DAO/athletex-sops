@@ -37,7 +37,9 @@ Template:
 4 ) Evidence supporting claim
 
 
-Some examples of successful sales letters examples:
+Some examples of successful sales letters:
+
+
  https://www.linkedin.com/posts/kevin-kamto_github-athletex-daosports-cids-pointer-activity-7066447881020329984-hh9e?utm_source=share&utm_medium=member_desktop
 
  https://www.linkedin.com/posts/kevin-kamto_charlie-rose-sir-james-goldsmith-interview-activity-7058257538647015424-oM4M?utm_source=share&utm_medium=member_desktop 
