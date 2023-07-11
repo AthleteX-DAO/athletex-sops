@@ -8,9 +8,9 @@ LinkedIn (Kevin Kamto)
 
 Twitter 
 
-Partnerships
+Partnerships ( To be announced )
 
-Paid Advertising
+Paid Advertising ( Planned August 2023 )
 
 
 ## Mid-funnel content:
