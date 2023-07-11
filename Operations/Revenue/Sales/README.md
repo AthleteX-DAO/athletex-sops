@@ -23,6 +23,20 @@ Discord
 
 
 
+## Sales Letters
+
+
+Template: 
+
+1 ) Niche-Specific Headline
+
+2 ) Problem Identification
+
+3 ) Solution statement 
+
+4 ) Evidence supporting claim
+
+
 Some examples of successful sales letters examples:
  https://www.linkedin.com/posts/kevin-kamto_github-athletex-daosports-cids-pointer-activity-7066447881020329984-hh9e?utm_source=share&utm_medium=member_desktop
 
