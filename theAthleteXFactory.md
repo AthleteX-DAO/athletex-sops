@@ -31,19 +31,19 @@ AthleteX Factory 2.0 (projection): This iteration is going to be focused on gene
 
 0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
-1 - Acquisition - 
+1 - Acquisition - Twitter Spaces
     KPI: 
 
-2 - Activation - 
+2 - Activation - Discord
     KPI: 
 
-3 - Retention - 
+3 - Retention - Daily Markets
     KPI: Monthly Active Users
 
-4 - Revenue - 
+4 - Revenue - 10% takers fee
     KPI: Monthly Recurring Revenue
 
-5 - Referral - 
-    KPI: Activation Coefficient:
+5 - Referral - Viral Referral Policy
+    KPI: Activation Coefficient: 
 
 reference: https://leanstack.com/manifesto/customer-factory
