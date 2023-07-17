@@ -49,3 +49,13 @@ https://www.linkedin.com/posts/kevin-kamto_happy-4th-of-july-activity-7083616626
 https://www.linkedin.com/posts/kevin-kamto_im-a-proud-american-and-i-believe-in-our-activity-7070790352739172352-npPj?utm_source=share&utm_medium=member_desktop
 
 Some of these sales letters are very crude, but they work and can flow much more smoothly with refinements
+
+Another example of a successful sale process was with SX Network: 
+
+1 - We will build synthetix athlete performance tokens
+
+2 - We need stuff for people to do on SX network
+
+3 - A options market for crypto sports bettors 
+
+4 - We build the thing for them
