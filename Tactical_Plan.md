@@ -69,7 +69,7 @@ Q2 -- Compounding Growth
 
 ** Referral Activities: **
 
-Q3 -- First IAO offerings (Breakout)
+Q3 -- Establishing repeat sales
 -----------------------------------------------------------------
 
 ** Acquisition Activities: **
@@ -83,7 +83,7 @@ Q3 -- First IAO offerings (Breakout)
 ** Referral Activities: **
 
 
-Q4 -- Sustaining Growth Multiples
+Q4 -- Maintaining repeat sales
 -----------------------------------------------------------------
 
 ** Acquisition Activities: **
@@ -101,10 +101,12 @@ Q4 -- Release Perpetual APTs (Career APTs)
 
 
 
-END OF 2023
+Ideas
+-------------
 
-
- > Issue our own 'SportsFi' NFTs
+ > Issue our own 'SportsFi' NFTs -- These could be part of the customer onboarding experience instead
+ > 
+ > 
 
  > Collaborations with NFT Communities (Issue NFTs + APTs together!) ref: https://docs.google.com/spreadsheets/d/1-0oafnfKEwUEnvOJLUtKXLzmQwx2BIj0eqZ9yElA5Ac/edit?usp=drivesdk
 
