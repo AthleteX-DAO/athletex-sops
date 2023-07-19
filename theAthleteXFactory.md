@@ -31,10 +31,10 @@ AthleteX Factory 2.0 (projection): This iteration is going to be focused on gene
 
 0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
-1 - Acquisition - Twitter Spaces
+1 - Acquisition - The Rollup
     KPI: 
 
-2 - Activation - Discord
+2 - Activation - Zealy ( mid-funnel content )
     KPI: 
 
 3 - Retention - Daily Markets
