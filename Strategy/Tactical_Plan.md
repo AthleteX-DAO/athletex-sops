@@ -13,6 +13,6 @@ Q4) More experiments w/ sales funnel
 
 -> Do we see at least 7x return on every gtm $$ spent?
 
--> 
+-> what is the DAO's liquidity position?  Is it profitable & growing?
 
--> 
+-> What is our MAU count?  Is it profitable & growing?
