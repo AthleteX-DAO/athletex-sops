@@ -1,2 +1,3 @@
-# plans
-AthleteX's Strategic and Tactical Plans for the future from the years 2023 to 2026
+# AthleteX Standard Operating Procedues (SOPs)
+
+This guidebook is to outline how AthleteX DAO operates, and provide a wiki for onboading new members in the future.
