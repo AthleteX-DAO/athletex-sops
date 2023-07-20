@@ -1,4 +1,4 @@
-Second half of 2023
+## Second half of 2023
 Quarterly Priorities
 
 Q3) Experiments w/ sales funnel
