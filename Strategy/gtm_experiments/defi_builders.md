@@ -11,6 +11,8 @@ Characteristics:
 
 --> Finance enthusiasts & total degenerates
 
+--> They like inventors, and being ahead of the curve on 'the next big thing'
+
 --> They really, really really enjoy watching charts go way up & then melt unexpectedly
 
 
