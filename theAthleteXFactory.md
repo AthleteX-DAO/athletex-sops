@@ -29,6 +29,9 @@ This has some room to grow, but this outlines the core as I've seen it.
 
 AthleteX Factory 2.0: This iteration is going to be focused on generating a sustainable revenue and breakouting out into new heights
 
+Notes:
+We are not acquiring exchange customers at a fast enough rate so instead are going to focus on closing enterprise customers, who have a slower sales model but bigger payout.
+
 0 - Brokerage Customers - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
 1 - Acquisition - The Rollup 
