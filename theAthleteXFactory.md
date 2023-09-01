@@ -27,7 +27,7 @@ This has some room to grow, but this outlines the core as I've seen it.
 
 -----------------------------------------------------------------------------
 
-AthleteX Factory 2.0 (projection): This iteration is going to be focused on generating a sustainable revenue and breakouting out into new heights
+AthleteX Factory 2.0: This iteration is going to be focused on generating a sustainable revenue and breakouting out into new heights
 
 0 - Brokerage Customers - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
@@ -44,6 +44,7 @@ AthleteX Factory 2.0 (projection): This iteration is going to be focused on gene
     KPI: Enterprise customers 
 
 5 - Referral - Viral Referral Policy
-    KPI: Activation Coefficient: 
+    KPI: Activation Coefficient
+
 
 reference: https://leanstack.com/manifesto/customer-factory
