@@ -29,19 +29,19 @@ This has some room to grow, but this outlines the core as I've seen it.
 
 AthleteX Factory 2.0 (projection): This iteration is going to be focused on generating a sustainable revenue and breakouting out into new heights
 
-0 - Customer - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
+0 - Brokerage Customers - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
-1 - Acquisition - The Rollup
+1 - Acquisition - The Rollup 
     KPI: 
 
-2 - Activation - Zealy ( mid-funnel content )
+2 - Activation - LinkedIn Impressions
     KPI: 
 
 3 - Retention - Daily Markets
-    KPI: Monthly Active Users
+    KPI: Discord users
 
-4 - Revenue - 10% takers fee
-    KPI: Monthly Recurring Revenue
+4 - Revenue - API order flow ( enterprise clients )
+    KPI: Enterprise customers 
 
 5 - Referral - Viral Referral Policy
     KPI: Activation Coefficient: 
