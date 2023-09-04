@@ -1,10 +1,7 @@
 
+AthleteX can be broken up into three distinct software components that maintain operations
 
-
-AthleteX has two separate products with different offerings
-
-AthleteX Exchange is the dapp interface for interacting with the protocol smart contracts & cryptocurrencies.  It has these key features:
-
+AthleteX Markets is the brokerage that lists markets
 
 AthleteX Predictions (live) --> which focuses on daily event markets
 
@@ -17,8 +14,10 @@ AthleteX Farms --> Seeding liquidity for APTs
 AthleteX LaunchPad (unreleased) --> which focuses on capitalizing and launching new APT tokens to the exchange
 
 
+AthleteX Router is the API that combines, routes and places orders for existing Sports, DeFi & TradFi orderflows.
 
-AthleteX Markets are the financial primitives (the Athlete Performance Tokens) made by AthleteX protocol (event APTs, seasonal APTs, perpetual APTs)
+
+AthleteX Protocol is the financial primitives (the Athlete Performance Tokens & Markets) traded on the decentralized exchange
 
 Event APTs are singular prediction markets based on an outcome.
 
