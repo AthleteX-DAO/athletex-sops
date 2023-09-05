@@ -46,3 +46,6 @@ Need proof? check out our awesome brokerage and the hundreds of users we've cura
 
 Best,
 AthleteX-DAO
+
+
+This is proven to work, and we are to collect a case study next.
