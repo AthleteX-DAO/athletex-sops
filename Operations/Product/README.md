@@ -16,8 +16,8 @@ AthleteX Markets is the brokerage that lists markets
     AthleteX LaunchPad (unreleased) --> which focuses on capitalizing and launching new APT tokens to the exchange
 
 
-AthleteX Router is the API that combines, routes and places orders for existing Sports, DeFi & TradFi orderflows.
-
+AthleteX Router is the API that combines, routes and places orders for existing Sports, DeFi traders.
+    
 
 AthleteX Protocol is the financial primitives (the Athlete Performance Tokens & Markets) traded on the decentralized exchange
 
