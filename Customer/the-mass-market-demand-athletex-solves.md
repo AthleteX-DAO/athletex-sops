@@ -9,4 +9,6 @@ Back to the point:  AthleteX is built to be a crypto athlete stock market.
 
 What the mass markets want is the ability to hold and trade stock/crypto/whatever of their favorite athlete.
 
+There is a strong emotional attachment that a person feels to their favorite athlete / sports team.  What people want, is the ability to hold, trade and feel attached to their team.
+
 That is AthleteX's ONE thing it can do better than PredictionStrike, SportX, Polymarkets and others.
