@@ -1,0 +1,1 @@
+AthleteX operates on a weekly release schedule.  We release every Thursday of the week, with a new release cut on Tuesday of each week.
