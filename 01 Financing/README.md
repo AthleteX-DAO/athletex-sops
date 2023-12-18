@@ -1,0 +1,1 @@
+This section is for AthleteX's financing activities.
