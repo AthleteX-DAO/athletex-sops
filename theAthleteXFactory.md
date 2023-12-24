@@ -34,20 +34,15 @@ We are not acquiring exchange customers at a fast enough rate so instead are goi
 
 0 - Brokerage Customers - Crypto-native users ( estimated TAM: 100M - Andrew-SX (this needs to be verified with data))
 
-1 - Acquisition - The Rollup 
-    KPI: 
+1 - Acquisition - This year we got > 10k page views in 2H of the year
 
-2 - Activation - LinkedIn Impressions
-    KPI: 
+2 - Activation - This is where customers went to die, because none of those acquired customers actually got activated.  I was wondering about this all year haha, why pageviews were so high but product metrics were so flat.
 
-3 - Retention - Daily Markets
-    KPI: Discord users
+3 - Retention - N/A
 
-4 - Revenue - API order flow ( enterprise clients )
-    KPI: Enterprise customers 
+4 - Revenue - N/A
 
-5 - Referral - Viral Referral Policy
-    KPI: Activation Coefficient
+5 - Referral - N/A
 
 
 reference: https://leanstack.com/manifesto/customer-factory
