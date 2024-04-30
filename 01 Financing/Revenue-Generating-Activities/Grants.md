@@ -5,3 +5,5 @@ Earnings can come from multiple things:
 1) Payment for producing the product
 
 2) Comittments of capital from partners / blockchain operators
+
+This is another very common way for protocols to make their money.
