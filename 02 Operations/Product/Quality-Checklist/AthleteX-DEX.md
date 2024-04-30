@@ -1,0 +1,1 @@
+This is a quality checklist for AthleteX - A sports cryptocurrency decentralized exchange
